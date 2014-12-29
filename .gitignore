@@ -1,0 +1,7 @@
+logs
+*.log
+*.pid
+*.seed
+.grunt
+build/Release
+node_modules

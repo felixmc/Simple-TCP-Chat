@@ -1,0 +1,19 @@
+{
+  "name": "TCP-Chat",
+  "version": "0.0.1",
+  "description": "simple tcp chat server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:felixmc/Simple-TCP-Chat.git"
+  },
+  "author": "Felix Milea-Ciobanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixmc/Simple-TCP-Chat/issues"
+  },
+  "homepage": "https://github.com/felixmc/Simple-TCP-Chat"
+}
