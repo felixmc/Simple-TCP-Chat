@@ -5,3 +5,4 @@ logs
 .grunt
 build/Release
 node_modules
+.*.sw*

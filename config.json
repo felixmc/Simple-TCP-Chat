@@ -1,0 +1,5 @@
+{
+	"port": 3456,
+	"name": "TCP Chat",
+	"username_pattern": "/^[a-z0-9_]+$/i"
+}
